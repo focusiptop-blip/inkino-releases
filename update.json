@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/focusiptop-blip/inkino-releases/raw/main/inkino-mobile-1.0.3.apk",
-  "releaseNotes": "Тестовое обновление через скрипт",
+  "versionCode": 6,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/focusiptop-blip/inkino-releases/raw/main/inkino-mobile-1.0.6.apk",
+  "releaseNotes": "Что нового",
   "mandatory": false
 }
